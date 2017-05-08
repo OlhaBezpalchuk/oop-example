@@ -1,5 +1,5 @@
-require './quadrocopter.rb'
-require './smart_quadrocopter.rb'
+require './quadrocopter'
+require './smart_quadrocopter'
 
 quadrocopter = Quadrocopter.new
 smart_quadrocopter = SmartQuadrocopter.new

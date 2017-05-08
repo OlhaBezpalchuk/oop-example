@@ -1,4 +1,4 @@
-require './rotor.rb'
+require './rotor'
 
 class Quadrocopter
 

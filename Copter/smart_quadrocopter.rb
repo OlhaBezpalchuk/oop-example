@@ -1,5 +1,5 @@
-require './rotor.rb'
-require './quadrocopter.rb'
+require './rotor'
+require './quadrocopter'
 
 class SmartQuadrocopter < Quadrocopter
   attr_reader :directions
